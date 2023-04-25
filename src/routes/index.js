@@ -1,3 +1,6 @@
+export { reviewRouter } from './reviews.js'
+export { movieRouter } from './movies.js'
+
 const { Router } = require('express');
 const router = Router();
 
